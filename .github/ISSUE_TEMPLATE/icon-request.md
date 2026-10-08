@@ -1,6 +1,6 @@
 ---
 name: Icon Request
-about: Request a new icon
+description: Request a new icon
 title: "[Icon Request] "
 labels: ["icon-request"]
 assignees: []
@@ -59,5 +59,3 @@ body:
       options:
         - label: This is urgent and I hope it gets supported soon
           required: false
----
-

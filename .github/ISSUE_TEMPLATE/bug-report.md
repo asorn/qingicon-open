@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Report a rendering, search, or export issue
+description: Report a rendering, search, or export issue
 title: "[Bug] "
 labels: ["bug"]
 assignees: []
@@ -67,5 +67,3 @@ body:
       placeholder: Drag screenshots here...
     validations:
       required: false
----
-

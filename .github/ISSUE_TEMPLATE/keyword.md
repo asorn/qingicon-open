@@ -1,6 +1,6 @@
 ---
 name: Keyword Suggestion
-about: Add Chinese / English search keywords to an existing icon
+description: Add Chinese / English search keywords to an existing icon
 title: "[Keyword] "
 labels: ["keyword"]
 assignees: []
@@ -48,5 +48,3 @@ body:
       placeholder: These words are easily confused with xxx in search...
     validations:
       required: false
----
-
