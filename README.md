@@ -1,5 +1,9 @@
 # QingIcon
 
+<p align="center">
+  <a href="./README.md">English</a> | <a href="./README.zh-CN.md">简体中文</a>
+</p>
+
 QingIcon is a **standardized, neutral-style** UI icon set — free and open source (Apache 2.0), built for AI, cloud, and internet products. Every icon shares the same grid and visual weight, so they mix cleanly without clashing.
 
 - **3900+ icons** across **34 categories**;

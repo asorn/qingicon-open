@@ -1,5 +1,9 @@
 # QingIcon
 
+<p align="center">
+  <a href="./README.md">English</a> | <a href="./README.zh-CN.md">简体中文</a>
+</p>
+
 QingIcon 是一套**规范化、中性风格**的 UI 图标库，免费且开源（Apache 2.0），面向 AI、云服务与互联网产品。图标尺寸统一、视觉重量均衡，出自同一套设计规范，混排不突兀。
 
 - **3900+ 枚图标**，覆盖 **34 个分类**；
