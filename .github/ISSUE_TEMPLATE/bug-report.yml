@@ -1,4 +1,3 @@
----
 name: Bug Report
 description: Report a rendering, search, or export issue
 title: "[Bug] "
@@ -67,4 +66,3 @@ body:
       placeholder: Drag screenshots here...
     validations:
       required: false
----

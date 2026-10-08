@@ -1,4 +1,3 @@
----
 name: Icon Request
 description: Request a new icon
 title: "[Icon Request] "
@@ -59,4 +58,3 @@ body:
       options:
         - label: This is urgent and I hope it gets supported soon
           required: false
----

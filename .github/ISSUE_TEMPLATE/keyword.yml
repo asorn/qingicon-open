@@ -1,4 +1,3 @@
----
 name: Keyword Suggestion
 description: Add Chinese / English search keywords to an existing icon
 title: "[Keyword] "
@@ -48,4 +47,3 @@ body:
       placeholder: These words are easily confused with xxx in search...
     validations:
       required: false
----
