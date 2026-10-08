@@ -1,0 +1,8 @@
+# Whether to allow "blank issues" (open without choosing a template)
+blank_issues_enabled: true
+
+# 提交区顶部提供的"其他联系方式"入口
+contact_links:
+  - name: 邮件联系 (Email)
+    url: mailto:cjl294114430@gmail.com
+    about: 不想公开提 issue？可发邮件到 cjl294114430@gmail.com（也支持 asornch@gmail.com）

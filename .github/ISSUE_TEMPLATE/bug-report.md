@@ -1,0 +1,71 @@
+---
+name: Bug Report
+about: Report a rendering, search, or export issue
+title: "[Bug] "
+labels: ["bug"]
+assignees: []
+body:
+  - type: input
+    id: icon
+    attributes:
+      label: Affected icon(s)
+      description: Which icon(s) are affected? Use the icon name (e.g. user-pen). Separate multiple with commas.
+      placeholder: e.g. user-pen, crosshair-5
+    validations:
+      required: true
+
+  - type: dropdown
+    id: env
+    attributes:
+      label: Environment
+      options:
+        - Website qingicon.com
+        - qingicon-react (npm)
+        - qingicon-vue (npm)
+        - qingicon-mcp (npm)
+        - Figma plugin
+        - Other / Not sure
+    validations:
+      required: true
+
+  - type: textarea
+    id: desc
+    attributes:
+      label: Description
+      description: What exactly is wrong? e.g. icon renders blank, stroke too thick, can't be searched, export misaligned.
+      placeholder: Describe the problem...
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: How to trigger the issue step by step. If it's a component, paste the key code.
+      placeholder: |
+        1. Install qingicon-react@x.y.z
+        2. Render <QiUserPen />
+        3. Observe...
+      render: markdown
+    validations:
+      required: false
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected vs actual
+      description: What did you expect to see? What did you actually see?
+      placeholder: Expected: icon displays normally. Actual: icon is transparent.
+    validations:
+      required: false
+
+  - type: textarea
+    id: media
+    attributes:
+      label: Screenshots
+      description: A screenshot helps a lot. Drag images here.
+      placeholder: Drag screenshots here...
+    validations:
+      required: false
+---
+
