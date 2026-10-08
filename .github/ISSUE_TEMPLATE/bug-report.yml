@@ -54,7 +54,7 @@ body:
     attributes:
       label: Expected vs actual
       description: What did you expect to see? What did you actually see?
-      placeholder: Expected: icon displays normally. Actual: icon is transparent.
+      placeholder: "Expected: icon displays normally. Actual: icon is transparent."
     validations:
       required: false
 
