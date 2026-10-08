@@ -67,3 +67,4 @@ body:
       placeholder: Drag screenshots here...
     validations:
       required: false
+---
