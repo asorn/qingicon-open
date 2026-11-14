@@ -7,7 +7,7 @@
 QingIcon is a **standardized, neutral-style** UI icon set — free and open source (Apache 2.0), built for AI, cloud, and internet products. Every icon shares the same grid and visual weight, so they mix cleanly without clashing.
 
 - **3900+ icons** across **34 categories**;
-- Two styles: **Line** and **Fill** (fill variants are still being drawn);
+- Four variants: **Line** + **Fill** in three weights (`fill-small` / `fill-regular` / `fill-large`);
 - **137,235 bilingual (Chinese + English) keywords** for high recall — "if you can think of it, you can usually find it";
 - Browse, search, copy, and download on the website; also available as React / Vue components, an MCP Server, and a Figma plugin.
 - Website: https://qingicon.com
